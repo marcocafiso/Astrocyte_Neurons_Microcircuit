@@ -1,6 +1,10 @@
 # Astrocyte_Neurons_Microcircuit
 
-This repository contains a Brian2 notebook implementing a two-module spiking-neuron and astrocyte model, described in this [bioRxiv preprint](https://www.biorxiv.org/content/10.64898/2026.06.15.732376v1).
+This repository contains a Brian2 notebook implementing a two-module spiking-neuron and astrocyte model, described in this [bioRxiv preprint](https://www.biorxiv.org/content/10.64898/2026.06.15.732376v1):
+
+"A microcircuit model of astrocytic potassium buffering and neural synchronization"
+
+By: Marco Cafiso, Gabriele Casagrande, Marianna Angiolleli, Paolo Paradisi, Pierpaolo Sorrentino, Damien Depannemaecker
 
 The model includes excitatory and inhibitory synapses, astrocyte-neuron interactions mediated by extracellular potassium, and potassium coupling between the two modules. The notebook runs the simulation and plots neuronal, astrocytic, and extracellular potassium dynamics.
 
